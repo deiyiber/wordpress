@@ -1,0 +1,2 @@
+# wordpress
+versión 1
